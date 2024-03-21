@@ -13,6 +13,4 @@ Sinta-se à vontade aqui e caso queira entrar em contato comigo segue meus conta
   thiago.assimos@gmail.com  
   
   <a href="https://www.linkedin.com/in/thiagoassimos/"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn"></a>
-  
-  **[CV]()**
 
