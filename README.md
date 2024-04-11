@@ -1,4 +1,4 @@
-## Olá, seja muito bem-vindo!
+<h2 align="center"> ## Olá, seja muito bem-vindo! 👋👋 Este é meu repositorio de Ciência de Dados
 
 Eu sou o Thiago Assimos, um cientista de dados e doutor que busca extrair informações relevantes que estão contidas nos dados através de técnicas de análise de dados, estatística e <i>machine learning</i>.
 
@@ -17,10 +17,10 @@ Venho desenvolvendo minhas habilidades em Python e suas principais bibliotecas a
 ![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 📱 Sinta-se à vontade aqui e caso queira entrar em contato comigo:
+## 📱Meus contatos:
 
-[![Gmail](thiago.assimos@gmail.com)]
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielfelinto/)
+[![Google](thiago.assimos@gmail.com)]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoassimos/)
 
 
 
