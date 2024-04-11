@@ -1,6 +1,6 @@
 ## <h2> Olá, seja muito bem-vindo! 👋👋 <br> Este é meu repositorio de Ciência de Dados</h2>
 
-Eu sou o Thiago Assimos, um cientista de dados que busca extrair informações relevantes que estão contidas nos dados através de técnicas de análise de dados, estatística e <i>machine learning</i>.
+Eu sou o Thiago Assimos, um Cientista de Dados que busca extrair informações relevantes que estão contidas nos dados através de técnicas de análise de dados, estatística e <i>machine learning</i>.
 
 Sou Bacharel e Licenciado em Física pela UERJ, Mestre em Física pelo CBPF e Doutor em Física Teórica e Física-Matemática pela UFF. Como sempre estive muito perto da Matemática me apaixonei pela área de dados na qual me especializei com uma Pós-Graduação pelo Instituto Infnet.
 
