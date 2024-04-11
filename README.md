@@ -1,4 +1,5 @@
-## <h2> Olá, seja muito bem-vindo! 👋👋 Este é meu repositorio de Ciência de Dados</h2>
+## <h2> Olá, seja muito bem-vindo!</h2> 👋👋 
+## <h2> Este é meu repositorio de Ciência de Dados</h2>
 
 Eu sou o Thiago Assimos, um cientista de dados que busca extrair informações relevantes que estão contidas nos dados através de técnicas de análise de dados, estatística e <i>machine learning</i>.
 
