@@ -16,6 +16,7 @@ Venho desenvolvendo minhas habilidades em Python e suas principais bibliotecas a
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Estatística](https://img.shields.io/badge/Estat%C3%ADstica-217346?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAAOElEQVR42mJ8fPn4nwENMDEwMDBgMavdKiwsLCwZGVgYGBgYGRkYGBoaGBgYGBgZ2ZmYGZmZmZnqQBIjBE3C/KwCAAAAAElFTkSuQmCC)
 ![Github](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
 
