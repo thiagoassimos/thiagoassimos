@@ -1,4 +1,4 @@
-## <h2 align="center"> Olá, seja muito bem-vindo! 👋👋 Este é meu repositorio de Ciência de Dados</h2>
+## <h2> Olá, seja muito bem-vindo! 👋👋 Este é meu repositorio de Ciência de Dados</h2>
 
 Eu sou o Thiago Assimos, um cientista de dados que busca extrair informações relevantes que estão contidas nos dados através de técnicas de análise de dados, estatística e <i>machine learning</i>.
 
@@ -17,7 +17,7 @@ Venho desenvolvendo minhas habilidades em Python e suas principais bibliotecas a
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Github](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
 
 
 ## 📱Meus contatos:
