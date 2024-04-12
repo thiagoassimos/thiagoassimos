@@ -24,7 +24,7 @@ Atualmente tenho me dedicado à Ciência de Dados, mais especificamente às téc
 
 ## 🗂 Repositório:
 
-(https://[github.com/HenriqueWF/portfolio](https://github.com/thiagoassimos)): projetos de análise e ciências de dados desenvolvidos para o meu portfólio
+[Projetos](https://github.com/thiagoassimos)
 
 
 ## 📱 Sinta-se à vontade para entrar em contato comigo:
