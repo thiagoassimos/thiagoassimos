@@ -7,7 +7,7 @@ Sou Bacharel e Licenciado em Física pela UERJ, Pós-Graduado em Ciência de Dad
 
 Atualmente tenho me dedicado à Ciência de Dados, mais especificamente às técnicas de análise de dados em Python e suas principais bibliotecas, estatística e <i>machine learning</i> buscando extrair informações relevantes contidas nos dados e assim produzir resultados significativos para as mais diversas áreas. 
 
-## 💻 Habilidades :
+## 💻 Habilidades:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -22,8 +22,7 @@ Atualmente tenho me dedicado à Ciência de Dados, mais especificamente às téc
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
 
 
-## Sinta-se à vontade para perguntar, comentar e/ou entrar em contato comigo. 
-## 📱 Meus contatos:
+## 📱 Sinta-se à vontade para entrar em contato comigo:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.assimos@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoassimos/)
 
