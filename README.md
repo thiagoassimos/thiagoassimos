@@ -1,7 +1,7 @@
 <h1> Olá! Prazer, sou o Thiago Assimos! 🤝 </h1> 
 <h2> Seja muito bem-vindo ao meu repositório de Análise e Ciência de Dados!</h2> 
 
-<h2 align="left">🗨 Sobre mim:</h2>
+<h2 align="left"> 💬 Sobre mim:</h2>
 
 Sou Bacharel e Licenciado em Física pela UERJ, Pós-Graduado em Ciência de Dados pelo Instituo Infnet, Mestre em Física pelo CBPF e Doutor em Física Teórica e Física-Matemática pela UFF. 
 
