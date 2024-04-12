@@ -1,8 +1,8 @@
-## <h2> Olá, seja muito bem-vindo ao meu repositório de Análise e Ciência de Dados! 👋👋  </h2>
+## <h2> Olá, seja muito bem-vindo ao meu repositório de Análise e Ciência de Dados! Muito prazer, sou o Thiago Assimos! 👋👋  </h2>
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
-Muito prazer me chamo Thiago Assimos! Sou Bacharel e Licenciado em Física pela UERJ, Pós-Graduado em Ciência de Dados pelo Instituo Infnet, Mestre em Física pelo CBPF e Doutor em Física Teórica e Física-Matemática pela UFF. 
+Sou Bacharel e Licenciado em Física pela UERJ, Pós-Graduado em Ciência de Dados pelo Instituo Infnet, Mestre em Física pelo CBPF e Doutor em Física Teórica e Física-Matemática pela UFF. 
 
 Atualmente tenho me dedicado à Ciência de Dados, mais especificamente com técnicas de análise de dados em Python e suas principais bibliotecas, estatística e <i>machine learning</i> para extrair informações relevantes contidas nos dados e assim produzir resultados significativos para as mais diversas áreas. 
 
