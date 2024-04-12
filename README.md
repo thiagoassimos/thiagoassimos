@@ -1,6 +1,6 @@
-## <h2> Olá, seja muito bem-vindo ao meu repositório de Análise e Ciência de Dados!</h2> 
+## <h1> Olá, prazer, sou o Thiago Assimos! 🤝 </h1> 
 
-## <h2> Muito prazer, sou o Thiago Assimos! 🤝 </h2>
+## <h2> Seja muito bem-vindo ao meu repositório de Análise e Ciência de Dados!</h2> 
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
