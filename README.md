@@ -22,6 +22,13 @@ Atualmente tenho me dedicado à Ciência de Dados, mais especificamente às téc
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
 
 
+## Repositórios:
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thiagoassimos) - projetos de análise e ciências de dados desenvolvidos para o meu portfólio.
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-green?style=for-the-badge&logo=github&logoColor=white)](link_para_o_repositório)
+
+
 ## 📱 Sinta-se à vontade para entrar em contato comigo:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.assimos@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoassimos/)
