@@ -24,7 +24,7 @@ Atualmente tenho me dedicado à Ciência de Dados, mais especificamente às téc
 
 ## 🗂 Repositório:
 
-[Projetos](https://github.com/thiagoassimos)
+[Projetos](https://github.com/thiagoassimos?tab=repositories)
 
 
 ## 📱 Sinta-se à vontade para entrar em contato comigo:
