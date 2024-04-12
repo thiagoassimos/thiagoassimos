@@ -25,8 +25,9 @@ Atualmente tenho me dedicado à Ciência de Dados, mais especificamente às téc
 ## Repositório:
 
 <a href="link_para_o_repositório">
-    <img src="https://img.icons8.com/material-rounded/452/folder-invoices.png" alt="GitHub Repository" width="40" height="40"/>
+    <img src="https://img.icons8.com/dusk/64/000000/computer-network.png" alt="GitHub Repository" width="40" height="40"/>
 </a>
+
 
 
 
