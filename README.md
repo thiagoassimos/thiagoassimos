@@ -25,8 +25,9 @@ Atualmente tenho me dedicado à Ciência de Dados, mais especificamente às téc
 ## Repositório:
 
 <a href="link_para_o_repositório">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Repository" width="40" height="40"/>
+    <img src="https://img.icons8.com/material-rounded/452/github.png" alt="GitHub Repository" width="40" height="40"/>
 </a>
+
 
 
 ## 📱 Sinta-se à vontade para entrar em contato comigo:
