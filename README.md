@@ -2,12 +2,9 @@
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
-Eu sou o Thiago Assimos, um Cientista de Dados que busca extrair informações relevantes que estão contidas nos dados através de técnicas de análise de dados, estatística e <i>machine learning</i>.
+Muito prazer me chamo Thiago Assimos! Sou Bacharel e Licenciado em Física pela UERJ, Pós-Graduado em Ciência de Dados pelo Instituo Infnet, Mestre em Física pelo CBPF e Doutor em Física Teórica e Física-Matemática pela UFF. 
 
-Sou Bacharel e Licenciado em Física pela UERJ, Mestre em Física pelo CBPF e Doutor em Física Teórica e Física-Matemática pela UFF. Como sempre estive muito perto da Matemática me apaixonei pela área de dados na qual me especializei com uma Pós-Graduação pelo Instituto Infnet.
-
-Venho desenvolvendo minhas habilidades em Python e suas principais bibliotecas aliados aos conhecimentos de <i>machine learning</i> para analisar dados de forma consistente e produzir resultados significativos para as mais diversas áreas. 
-
+Atualmente tenho me dedicado à Ciência de Dados, mais especificamente com técnicas de análise de dados em Python e suas principais bibliotecas, estatística e <i>machine learning</i> para extrair informações relevantes contidas nos dados e assim produzir resultados significativos para as mais diversas áreas. 
 
 ## 💻 Habilidades :
 
