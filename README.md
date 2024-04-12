@@ -22,14 +22,9 @@ Atualmente tenho me dedicado à Ciência de Dados, mais especificamente às téc
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
 
 
-## Repositório:
+## 🗂 Repositório:
 
-<a href="link_para_o_repositório">
-    <img src="https://img.icons8.com/dusk/64/000000/computer-network.png" alt="GitHub Repository" width="40" height="40"/>
-</a>
-
-
-
+(https://[github.com/HenriqueWF/portfolio](https://github.com/thiagoassimos)): projetos de análise e ciências de dados desenvolvidos para o meu portfólio
 
 
 ## 📱 Sinta-se à vontade para entrar em contato comigo:
