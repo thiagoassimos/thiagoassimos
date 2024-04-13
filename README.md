@@ -22,9 +22,9 @@ Atualmente tenho me dedicado à Ciência de Dados, mais especificamente às téc
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
 
 
-## 🗂 Repositório:
+## 🗂 Repositório de projetos:
 
-[Projetos](https://github.com/thiagoassimos?tab=repositories)
+[Clique aqui](https://github.com/thiagoassimos?tab=repositories)
 
 
 ## 📱 Sinta-se à vontade para entrar em contato comigo:
