@@ -5,7 +5,7 @@
 
 Sou Bacharel e Licenciado em Física pela UERJ, Pós-Graduado em Ciência de Dados pelo Instituo Infnet, Mestre em Física pelo CBPF e Doutor em Física Teórica e Física-Matemática pela UFF. 
 
-Atualmente tenho me dedicado à Ciência de Dados, mais especificamente às técnicas de análise de dados em Python e suas principais bibliotecas, estatística e <i>machine learning</i> buscando extrair informações relevantes contidas nos dados e assim produzir resultados significativos para as mais diversas áreas. Alguns projetos contendo toda essa abordagem podem ser conferidos nesta página de perfil do GitHub.
+Tenho utilizado as técnicas de análise de dados em Python (e suas principais bibliotecas), Estatística e <i>Machine Learning</i> buscando extrair informações relevantes contidas nos dados e assim poder gerar insights que sejam assertivos na resolução dos mais diversos tipos de problemas. Alguns projetos contendo toda essa abordagem podem ser conferidos nesta página de perfil do GitHub.
 
 ## 💻 Habilidades:
 
