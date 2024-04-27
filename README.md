@@ -31,7 +31,7 @@ Tenho utilizado Python (e suas principais bibliotecas), Estatística e <i>Machin
 ## 📱 Sinta-se à vontade para entrar em contato comigo:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.assimos@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoassimos/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-6BBFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://thiagoassimos.github.io/portfolio/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-6BBFFF?style=for-the-badge&logo=portfolio&logoColor=white)](https://thiagoassimos.github.io/portfolio/)
 
 
 
