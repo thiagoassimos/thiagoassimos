@@ -21,6 +21,7 @@ Tenho utilizado Python (e suas principais bibliotecas), Estatística e <i>Machin
 ![Github](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-7C1AD8?style=for-the-badge&logo=sql&logoColor=white)
 
 
