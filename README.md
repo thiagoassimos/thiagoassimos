@@ -1,5 +1,5 @@
 <h1> Olá! 😀 </h1>
-<h2> Seja muito bem-vindo ao meu repositório de Análise e Ciência de Dados!</h2> 
+<h2> Seja muito bem-vindo ao meu repositório de Análise, Ciência de Dados e Inteligência Artificial!</h2> 
 
 <h2 align="left"> 💬 Sobre mim:</h2>
 
