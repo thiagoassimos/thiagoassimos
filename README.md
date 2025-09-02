@@ -1,13 +1,13 @@
-<h1> Olá! Prazer, sou o Thiago Assimos! 🤝 </h1> 
+<h1> Olá! </h1> 
 <h2> Seja muito bem-vindo ao meu repositório de Análise e Ciência de Dados!</h2> 
 
 <h2 align="left"> 💬 Sobre mim:</h2>
 
 Sou Bacharel e Licenciado em Física pela UERJ, Pós-Graduado em Ciência de Dados pelo Instituo Infnet, Mestre em Física pelo CBPF e Doutor em Física Teórica e Física-Matemática pela UFF. 
 
-Tenho utilizado Python (e suas principais bibliotecas), Estatística e <i>Machine Learning</i> para realizar análises de dados robustas com intuito de produzir <i>insights</i> assertivos na resolução dos mais diversos tipos de problemas. Alguns projetos contendo toda essa abordagem podem ser conferidos nesta página de perfil do GitHub.
+Tenho utilizado Python (e suas principais bibliotecas), Estatística e <i>Machine Learning</i> com intuito de produzir <i>insights</i> assertivos na resolução dos mais diversos tipos de problemas na área de Dados e IA. Alguns projetos contendo toda essa abordagem podem ser conferidos nesta página de perfil do GitHub.
 
-## 💻 Habilidades:
+## 💻 Linguagens e Ferramentas:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
