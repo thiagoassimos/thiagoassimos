@@ -15,7 +15,7 @@ Atualmente, aplico <b>Python</b> (e suas principais bibliotecas), <b>Estatístic
 ## 💻 Linguagens e Ferramentas:
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" width="120"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Pandas_logo.svg" alt="Pandas Logo" width="120"/>
   <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter Logo" width="120"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
