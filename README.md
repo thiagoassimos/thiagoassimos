@@ -16,8 +16,7 @@ Atualmente, aplico <b>Python</b> (e suas principais bibliotecas), <b>Estatístic
 
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg" alt="Python" width="120"/>
- <img src="https://camo.githubusercontent.com/b685f1fda70b0d9498cca77a0ee9ab48f91c82859d42c5bf77e5333600078b2c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f70616e6461732f70616e6461732d6f726967696e616c2d776f72646d61726c2e737667" alt="Pandas" width="120"/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Pandas_logo.svg" alt="Pandas Logo" width="120"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
@@ -28,7 +27,7 @@ Atualmente, aplico <b>Python</b> (e suas principais bibliotecas), <b>Estatístic
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="Excel" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel Logo" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
 </p>
 
